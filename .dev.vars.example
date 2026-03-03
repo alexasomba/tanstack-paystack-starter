@@ -1,0 +1,12 @@
+# Paystack secret key (server-side)
+PAYSTACK_SECRET_KEY=sk_test_your_key_here
+
+# Paystack webhook secret (HMAC secret)
+PAYSTACK_WEBHOOK_SECRET=sk_test_your_key_here
+
+# Better Auth base URL
+VITE_BETTER_AUTH_URL=http://localhost:3000
+BETTER_AUTH_URL=http://localhost:3000
+
+# Better Auth secret
+BETTER_AUTH_SECRET=generate-a-random-secret-here
