@@ -5,9 +5,9 @@
   "compatibility_flags": ["nodejs_compat"],
   "main": "@tanstack/react-start/server-entry",
   "vars": {
-    "VITE_BETTER_AUTH_URL": "https://your-deployed-url.workers.dev",
-    "BETTER_AUTH_URL": "https://your-deployed-url.workers.dev",
-    "URL": "https://your-deployed-url.workers.dev"
+    "VITE_BETTER_AUTH_URL": "https://tanstack-paystack-starter.gittech.workers.dev",
+    "BETTER_AUTH_URL": "https://tanstack-paystack-starter.gittech.workers.dev",
+    "URL": "https://tanstack-paystack-starter.gittech.workers.dev"
   },
   "observability": {
     "logs": {
